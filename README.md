@@ -15,8 +15,10 @@ It calculates BMI based on **age, height, and weight** and provides BMI category
 ---
 
 ## Technologies Used
-- React.js
-- CSS (Custom styling and transitions)
+- React.js  
+- JavaScript  
+- HTML (JSX)  
+- CSS 
 
 ---
 
