@@ -41,8 +41,9 @@ npm start
 
 
 5. Open http://localhost:3000  in your browser.
+```
 
-About the Developer
+## About the Developer
 Aditi Atul Dalal
 🎓 B.E. in Computer Engineering | University of Mumbai
  
