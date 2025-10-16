@@ -23,7 +23,7 @@ It calculates BMI based on **age, height, and weight** and provides BMI category
 ## How to Run Locally
 1. Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/BMI-Calculator.git
+git clone https://github.com/AditiDalal2003/BMI-Calculator.git
 
 2. Navigate into the project folder:
 
@@ -42,5 +42,7 @@ npm start
 
 5. Open http://localhost:3000  in your browser.
 
-
+About the Developer
+Aditi Atul Dalal
+🎓 B.E. in Computer Engineering | University of Mumbai
  
