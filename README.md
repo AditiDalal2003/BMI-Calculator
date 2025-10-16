@@ -45,5 +45,6 @@ npm start
 
 ## About the Developer
 Aditi Atul Dalal
+
 🎓 B.E. in Computer Engineering | University of Mumbai
  
