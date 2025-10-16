@@ -4,6 +4,13 @@ A responsive **BMI (Body Mass Index) Calculator** built with **React.js**.
 It calculates BMI based on **age, height, and weight** and provides BMI category, health tips, and age-specific advice.
 
 ---
+## **Live Demo**
+
+Try the BMI Calculator online:  
+[**Click here to open the live app**](https:bmi-calculator-react-v1.netlify.app) 🚀
+  
+
+---
 
 ## Features
 - Calculate BMI and display category: Underweight, Normal, Overweight, Obese
