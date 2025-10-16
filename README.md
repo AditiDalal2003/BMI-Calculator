@@ -6,7 +6,7 @@ It calculates BMI based on **age, height, and weight** and provides BMI category
 ---
 ## **Live Demo**
 
-## Try the BMI Calculator online:  
+### Try the BMI Calculator online:  
 [**Click here to open the live app**](https://bmi-calculator-react-v1.netlify.app/) 🚀
   
 
